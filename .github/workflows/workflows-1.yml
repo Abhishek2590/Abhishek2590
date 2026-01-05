@@ -2,7 +2,7 @@ name: Output_information
 on: workflow_dispatch
 jobs:
   outputinfo:
-    runs-on: workflow_dispatch
+    runs-on: ubuntu-latest
     steps:
     - name: Output Github info
       run: echo "${{toJSON(github)}}"
