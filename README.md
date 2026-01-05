@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhishek2590
 - 👀 I’m interested in Devops/AWS/Automation
-- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Kubernetes
 - 📫 How to reach me on my mail id - abhishekahirwar25@gmail.com
 
